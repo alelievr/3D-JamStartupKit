@@ -17,6 +17,11 @@ Terrain | Terrain tools and nature assets
 + [ProBuilder Basic](https://www.assetstore.unity3d.com/en/#!/content/11919)
 + [Unity particle pack](https://www.assetstore.unity3d.com/en/#!/content/73777)
 + [JamKit](https://github.com/alelievr/JamKit)
++ [Terrain Toolkit 2017](https://assetstore.unity.com/packages/tools/terrain/terrain-toolkit-2017-83490)
++ [Microsplat](https://assetstore.unity.com/packages/tools/terrain/microsplat-96478)
++ [Generic Terrain brushes](https://assetstore.unity.com/packages/tools/terrain/generic-terrain-brushes-52974)
++ [Rock and Boulders 2](https://assetstore.unity.com/packages/3d/props/exterior/rock-and-boulders-2-6947)
++ [Nature starter kit 2](https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977)
 
 ### Modified project settings
 Chnages done accordingly to [the project setup best practices](https://blogs.unity3d.com/2017/08/10/spotlight-team-best-practices-project-setup/)
