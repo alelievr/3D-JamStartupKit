@@ -2,7 +2,15 @@
 A Unity kit of assets and scripts for game jams
 
 ### Installation
-clone this repo using `git clone --recursive https://github.com/alelievr/3D-JamStartupKit` to get the submodules.
+Clone this repo using `git clone --recursive https://github.com/alelievr/3D-JamStartupKit` to get the submodules.
+To copy this repo for another project do:
+```shell
+git clone --recursive https://github.com/alelievr/3D-JamStartupKit MyRepo
+cd MyRepo
+git remote rm origin
+git remote add origin https://github.com/username/MyRepo
+git push --set-upstream origin master
+```
 
 :warning: there is multiple branches with different 3D setups in this repo:
 
